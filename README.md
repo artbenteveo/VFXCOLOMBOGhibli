@@ -25,6 +25,13 @@ P.3
 ![p3](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/83146834/f794f5ef-739e-44fd-8421-9ffdd245dee5)
 https://imgur.com/a/DvwvHLG
 
+P.4
+![shader_humo](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/93880973/318b288f-ef46-4b03-95c1-fa28f095598c)
+https://imgur.com/a/snFMtWq
+
+P.5
+![shader_erosion](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/93880973/2eb656f1-fb18-476d-a6de-b45752abae3e)
+https://imgur.com/a/GG6IuFj
 
 P. 6
 ![Screenshot 2024-04-10 114038](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/82242799/1cadb80b-99d8-4a5b-b434-eef46705e603)
