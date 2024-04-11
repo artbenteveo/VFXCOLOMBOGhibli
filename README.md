@@ -20,6 +20,9 @@ P.1
 ![Screenshot 2024-04-10 093107](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/82242799/08ccb0b5-7476-482a-bde8-f7462b6a04f8)
 https://imgur.com/a/m0mszBo
 
+P.2
+![shader_mask](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/83143321/6ca81dbc-8ef8-4fcf-8d5e-a32760bcba41)
+https://imgur.com/a/62aUZXU
 
 P.3
 ![p3](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/83146834/f794f5ef-739e-44fd-8421-9ffdd245dee5)
