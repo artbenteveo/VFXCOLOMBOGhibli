@@ -50,3 +50,8 @@ P.8
 ![p8](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/83146834/4bc5f035-2e62-4832-ae5c-719f8d5fef10)
 https://imgur.com/a/nHOMZXe
 
+|||||||||||||||||||
+
+Parcial 4 
+https://imgur.com/a/5GmEsAn
+
