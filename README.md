@@ -55,3 +55,26 @@ https://imgur.com/a/nHOMZXe
 Parcial 4 
 https://imgur.com/a/5GmEsAn
 
+|||||||||||||
+
+Parcial 5
+
+Chromatic Aberration
+https://imgur.com/a/XIVs4xU
+
+Field Distortion
+https://imgur.com/a/ZjYoVXK
+
+Depth Of Field
+https://imgur.com/a/0aK49bW
+
+Vignette
+
+
+Shader List
+![image](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/83146834/0896a202-8efb-4f79-a4b1-df3ce03ac717)
+![WhatsApp Image 2024-05-10 at 9 19 44 PM](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/83146834/b1b42e03-2dea-419d-9999-7fd046bc6680)
+
+
+
+
