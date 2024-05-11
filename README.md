@@ -74,8 +74,8 @@ Vignette
 Shader List
 ..
 
+![image](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/83146834/1112c9c1-03cd-4a9e-a46f-9fb0dba44cf5)
 
-![image](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/83146834/0896a202-8efb-4f79-a4b1-df3ce03ac717)
 ![WhatsApp Image 2024-05-10 at 9 19 44 PM](https://github.com/artbenteveo/VFXCOLOMBOGhibli/assets/83146834/b1b42e03-2dea-419d-9999-7fd046bc6680)
 
 
