@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0bb44fe87431ed4791f6ec05e1faae0, type: 3}
   m_Name: CustomDepthOfField
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   blurAmount:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
   blurDistance:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   focalPoint:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 5
   aperture:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 10
 --- !u!114 &-6499624672741475991
 MonoBehaviour:
@@ -82,7 +82,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f968044e28af1143a38d64315072bb5, type: 3}
   m_Name: CustomChromaticAberration
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   redShift:
     m_OverrideState: 1
     m_Value: 1
@@ -104,13 +104,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1510a15166bee8e40b96cab0f5ff191f, type: 3}
   m_Name: ScreenSpaceDistortion
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   distortionAmount:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   distortionNormalMap:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {fileID: 0}
   distortionVelocity:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {x: 0, y: 0}

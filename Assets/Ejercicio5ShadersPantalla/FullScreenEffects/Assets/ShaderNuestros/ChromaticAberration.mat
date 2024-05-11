@@ -55,11 +55,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BlueShift: 7.88
-    - _GreenShift: 1.69
-    - _Intensity: 1.97
+    - _BlueShift: 15.1
+    - _GreenShift: 47.2
+    - _Intensity: 3.54
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RedShift: 8.18
+    - _RedShift: 50.7
     m_Colors: []
   m_BuildTextureStacks: []
