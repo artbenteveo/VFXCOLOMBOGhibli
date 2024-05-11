@@ -111,18 +111,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Active: 1
   chromaticAberration:
-    renderingShader: {fileID: -6465566751694194690, guid: 4fd1498a4baa43745adbb1e64dd0017d,
-      type: 3}
-    passName: ChromaticAberration
+    renderingShader: {fileID: 4800000, guid: 8e1fc98f1db34448af48015571cd9db4, type: 3}
+    passName: 
   screenSpaceDistortion:
-    renderingShader: {fileID: -6465566751694194690, guid: e700aff652c2e16458b3eb28be38c07c,
-      type: 3}
+    renderingShader: {fileID: 4800000, guid: 94bd12d4b77d72043b90656f0d5af121, type: 3}
     passName: DepthOfField
   depthOfField:
-    renderingShader: {fileID: -6465566751694194690, guid: e181c6a2b69224d4a9db2fd5b25c87df,
-      type: 3}
+    renderingShader: {fileID: 4800000, guid: 148b68aed8c25ad45a91a6cb2f740aba, type: 3}
     passName: VignetteMask
   vignetteMaskedTexture:
-    renderingShader: {fileID: -6465566751694194690, guid: 67373d99c33c78e48837f7dff5892338,
-      type: 3}
+    renderingShader: {fileID: 4800000, guid: 110ca1654a614ac6b38d368c4eda801b, type: 3}
     passName: FieldDistorsion

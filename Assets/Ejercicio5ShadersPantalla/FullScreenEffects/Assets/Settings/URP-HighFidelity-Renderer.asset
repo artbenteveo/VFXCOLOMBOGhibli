@@ -1,5 +1,25 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2870892070170110050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d613f08f173d4dd895bb07b3230baa9, type: 3}
+  m_Name: Custom Chromatic Aberration
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  injectionPoint: 600
+  fetchColorBuffer: 1
+  requirements: 4
+  passMaterial: {fileID: 2100000, guid: fd82360d6c5cbaf44a789999f37e7219, type: 2}
+  passIndex: 0
+  bindDepthStencilAttachment: 0
+  m_Version: 1
 --- !u!114 &-1878332245247344467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53,7 +73,9 @@ MonoBehaviour:
     hdrDebugViewPS: {fileID: 4800000, guid: 573620ae32aec764abd4d728906d2587, type: 3}
   m_RendererFeatures:
   - {fileID: -1878332245247344467}
-  m_RendererFeatureMap: adc0de57c6d2eee5
+  - {fileID: 313106915602821028}
+  - {fileID: -2870892070170110050}
+  m_RendererFeatureMap: adc0de57c6d2eee5a46f39b1146158049e570671df8a28d8
   m_UseNativeRenderPass: 0
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
@@ -96,3 +118,32 @@ MonoBehaviour:
   m_CopyDepthMode: 0
   m_AccurateGbufferNormals: 0
   m_IntermediateTextureMode: 1
+--- !u!114 &313106915602821028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6cb496a42e3818458880672d36df037, type: 3}
+  m_Name: CustomPostProcessInjector
+  m_EditorClassIdentifier: 
+  m_Active: 0
+  chromaticAberration:
+    renderingShader: {fileID: -6465566751694194690, guid: 4fd1498a4baa43745adbb1e64dd0017d,
+      type: 3}
+    passName: 
+  screenSpaceDistortion:
+    renderingShader: {fileID: -6465566751694194690, guid: 67373d99c33c78e48837f7dff5892338,
+      type: 3}
+    passName: 
+  depthOfField:
+    renderingShader: {fileID: -6465566751694194690, guid: e700aff652c2e16458b3eb28be38c07c,
+      type: 3}
+    passName: 
+  vignetteMaskedTexture:
+    renderingShader: {fileID: -6465566751694194690, guid: e181c6a2b69224d4a9db2fd5b25c87df,
+      type: 3}
+    passName: 

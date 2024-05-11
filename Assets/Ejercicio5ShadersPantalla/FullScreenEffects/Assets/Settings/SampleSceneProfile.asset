@@ -61,14 +61,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   redShift:
-    m_OverrideState: 0
-    m_Value: 0.201
+    m_OverrideState: 1
+    m_Value: 0.468
   greenShift:
-    m_OverrideState: 0
-    m_Value: 0.128
+    m_OverrideState: 1
+    m_Value: 0.529
   blueShift:
-    m_OverrideState: 0
-    m_Value: 0.077
+    m_OverrideState: 1
+    m_Value: 0.473
 --- !u!114 &-7011558710299706105
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -171,19 +171,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   vignetteMaskIntensity:
-    m_OverrideState: 0
-    m_Value: 10
+    m_OverrideState: 1
+    m_Value: 15.58
   vignettePower:
-    m_OverrideState: 0
-    m_Value: 2
+    m_OverrideState: 1
+    m_Value: 5.49
   overlayTexture:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {fileID: 0}
   overlayTextureTint:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
   overlayTextureVelocity:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {x: 0, y: 0}
 --- !u!114 &8379871322233980914
 MonoBehaviour:
@@ -199,13 +199,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   distortionAmount:
-    m_OverrideState: 0
-    m_Value: 1
+    m_OverrideState: 1
+    m_Value: 0.658
   distortionNormalMap:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {fileID: 0}
   distortionVelocity:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {x: 0, y: 0}
 --- !u!114 &8975542124217572577
 MonoBehaviour:
@@ -221,14 +221,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   blurAmount:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 5
   blurDistance:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   focalPoint:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 5
   aperture:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 10

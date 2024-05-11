@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0bb44fe87431ed4791f6ec05e1faae0, type: 3}
   m_Name: CustomDepthOfField
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   blurAmount:
     m_OverrideState: 0
     m_Value: 0
@@ -37,7 +37,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61d3a66b89d7c114abe1a556d64c2fb9, type: 3}
   m_Name: RadialTextureVignetteMasked
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   vignetteMaskIntensity:
     m_OverrideState: 0
     m_Value: 10
@@ -82,13 +82,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f968044e28af1143a38d64315072bb5, type: 3}
   m_Name: CustomChromaticAberration
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   redShift:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   greenShift:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   blueShift:
     m_OverrideState: 1
     m_Value: 0
@@ -104,7 +104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1510a15166bee8e40b96cab0f5ff191f, type: 3}
   m_Name: ScreenSpaceDistortion
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   distortionAmount:
     m_OverrideState: 0
     m_Value: 1

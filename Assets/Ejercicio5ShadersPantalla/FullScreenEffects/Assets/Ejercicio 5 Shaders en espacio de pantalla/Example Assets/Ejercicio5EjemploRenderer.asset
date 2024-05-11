@@ -1,5 +1,26 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6816704370711379692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d613f08f173d4dd895bb07b3230baa9, type: 3}
+  m_Name: Chromatic Aberrations
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  injectionPoint: 600
+  fetchColorBuffer: 1
+  requirements: 0
+  passMaterial: {fileID: -876546973899608171, guid: 93e38adabe5b2ca4c8f9bf1b41ca443f,
+    type: 3}
+  passIndex: 0
+  bindDepthStencilAttachment: 0
+  m_Version: 1
 --- !u!114 &-1878332245247344467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54,7 +75,8 @@ MonoBehaviour:
   m_RendererFeatures:
   - {fileID: -1878332245247344467}
   - {fileID: 4752999017758969279}
-  m_RendererFeatureMap: adc0de57c6d2eee5bfcd4d976c0bf641
+  - {fileID: -6816704370711379692}
+  m_RendererFeatureMap: adc0de57c6d2eee5bfcd4d976c0bf6411441e5c47d3366a1
   m_UseNativeRenderPass: 0
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
@@ -109,9 +131,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6cb496a42e3818458880672d36df037, type: 3}
   m_Name: CustomPostProcessInjector
   m_EditorClassIdentifier: 
-  m_Active: 1
+  m_Active: 0
   chromaticAberration:
-    renderingShader: {fileID: 4800000, guid: 8e1fc98f1db34448af48015571cd9db4, type: 3}
+    renderingShader: {fileID: -6465566751694194690, guid: 93e38adabe5b2ca4c8f9bf1b41ca443f,
+      type: 3}
     passName: ChromaticAberration
   screenSpaceDistortion:
     renderingShader: {fileID: 4800000, guid: 94bd12d4b77d72043b90656f0d5af121, type: 3}
